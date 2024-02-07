@@ -16,18 +16,19 @@ for row in soup.find_all('tr')[1:]:
         battle_rating = (columns[3].text.strip())
         nation = columns[0].text.strip()
         tank_type = columns[1].text.strip()
+        
 
         tank_info = {
+            "nation" :nation,
             "name": tank_name,
             "battle_rating": battle_rating,
-            "nation": nation,
             "type": tank_type
         }
 
         tanks_data.append(tank_info)
 
 # Creating a JSON file with the extracted data
-output_file = "tanks_data.json"
+output_file = "tanks_data2.json"
 with open(output_file, 'w') as json_file:
     json.dump({"tanks": tanks_data}, json_file, indent=2)
 
