@@ -14,15 +14,16 @@ app = Flask(__name__)
 with open("tanks_data.json", "r") as json_file:
     tanks_data = json.load(json_file)
 
-
-
-
-
-
-
-@app.route('/', methods=['GET'])
+@app.route("/")
 def get_tanks():
     return jsonify(tanks_data)
+
+
+
+
+#@app.route('/tanks', methods=['GET'])
+#def get_tanks():
+   # return jsonify(tanks_data)
 
 
 #@app.route('/tanks', methods=['POST'])
@@ -32,7 +33,8 @@ def get_tanks():
 
 
 
-if __name__ == "__main__":
-    # Run the Flask app
-    app.run(host='localhost', port=8080, debug=True)
 
+
+
+if __name__ == "__main__":
+    app.run(host='127.0.0.1', port=8080, debug=True)
