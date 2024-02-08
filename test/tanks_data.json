@@ -1,0 +1,5596 @@
+{
+  "tanks": [
+    {
+      "name": "2C",
+      "battle_rating": "2.3",
+      "nation": "France",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "2C bis",
+      "battle_rating": "1.7",
+      "nation": "France",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "2S3M",
+      "battle_rating": "6.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "2S6",
+      "battle_rating": "10.7",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "2S25",
+      "battle_rating": "9.3",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "2S25M",
+      "battle_rating": "9.7",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "2S38",
+      "battle_rating": "10.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "8,8 cm Flak 37 Sfl.",
+      "battle_rating": "4.7",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "15 cm Pz.W.42",
+      "battle_rating": "2.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "15cm sIG 33 B Sfl",
+      "battle_rating": "1.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "38 cm Sturmmorser",
+      "battle_rating": "6.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "47/32 L40",
+      "battle_rating": "1.3",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "75/18 M41",
+      "battle_rating": "2.0",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "75/32 M41",
+      "battle_rating": "2.3",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "75/34 M42",
+      "battle_rating": "2.3",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "75/34 M43",
+      "battle_rating": "3.3",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "75/46 M43",
+      "battle_rating": "4.7",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "90/53 M41M",
+      "battle_rating": "3.7",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "105/25 M43",
+      "battle_rating": "3.0",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "A13 Mk I",
+      "battle_rating": "1.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "A13 Mk I (3rd R.T.R.)",
+      "battle_rating": "1.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "A13 Mk II",
+      "battle_rating": "1.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "A13 Mk II 1939",
+      "battle_rating": "1.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "A.C.I",
+      "battle_rating": "3.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "A.C.IV",
+      "battle_rating": "5.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AB 41",
+      "battle_rating": "1.0",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "AB 43",
+      "battle_rating": "2.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "Achilles",
+      "battle_rating": "3.7",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Achilles (65 Rg.)",
+      "battle_rating": "3.7",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ADATS (M113)",
+      "battle_rating": "11.7",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "AEC AA",
+      "battle_rating": "3.7",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "AEC Mk II",
+      "battle_rating": "3.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "AFT09",
+      "battle_rating": "9.0",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "AGS",
+      "battle_rating": "11.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "Alecto I",
+      "battle_rating": "1.7",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "AMC.34 YR",
+      "battle_rating": "1.0",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMC.35 (ACG.1)",
+      "battle_rating": "1.3",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMD.35",
+      "battle_rating": "1.0",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMD.35 (SA35)",
+      "battle_rating": "1.7",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AML-90",
+      "battle_rating": "7.0",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AML-90",
+      "battle_rating": "7.0",
+      "nation": "Israel",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMR.35 ZT3",
+      "battle_rating": "1.0",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "AMX M4",
+      "battle_rating": "6.7",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-10RC",
+      "battle_rating": "8.3",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMX-13",
+      "battle_rating": "6.3",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMX-13 (FL11)",
+      "battle_rating": "4.0",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMX-13 (HOT)",
+      "battle_rating": "8.3",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMX-13",
+      "battle_rating": "6.3",
+      "nation": "Israel",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMX-13 (SS.11)",
+      "battle_rating": "6.7",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMX-13 DCA 40",
+      "battle_rating": "4.7",
+      "nation": "France",
+      "type": "SPAA"
+    },
+    {
+      "name": "AMX-13-90",
+      "battle_rating": "7.7",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMX-13-M24",
+      "battle_rating": "3.7",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "AMX-30",
+      "battle_rating": "8.0",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-30 (1972)",
+      "battle_rating": "8.0",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-30 ACRA",
+      "battle_rating": "8.3",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-30 DCA",
+      "battle_rating": "8.3",
+      "nation": "France",
+      "type": "SPAA"
+    },
+    {
+      "name": "AMX-30 Super",
+      "battle_rating": "9.3",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-30B2",
+      "battle_rating": "8.7",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-30B2 BRENUS",
+      "battle_rating": "8.7",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-32",
+      "battle_rating": "9.3",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-32 (105)",
+      "battle_rating": "9.3",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-40",
+      "battle_rating": "9.7",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-50 (TO90/930)",
+      "battle_rating": "8.0",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-50 (TOA100)",
+      "battle_rating": "7.0",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "AMX-50 Foch",
+      "battle_rating": "7.3",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "AMX-50 Surbaiss",
+      "battle_rating": "7.7",
+      "nation": "France",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "AMX-50 Surblind",
+      "battle_rating": "7.7",
+      "nation": "France",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Archer",
+      "battle_rating": "2.7",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Ariete",
+      "battle_rating": "11.3",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Ariete (P)",
+      "battle_rating": "10.3",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Ariete AMV",
+      "battle_rating": "11.7",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Ariete PSO",
+      "battle_rating": "11.3",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ARL-44",
+      "battle_rating": "5.3",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ARL-44 (ACL-1)",
+      "battle_rating": "3.7",
+      "nation": "France",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "AS 42",
+      "battle_rating": "1.3",
+      "nation": "Italy",
+      "type": "SPAA"
+    },
+    {
+      "name": "AS 42/47",
+      "battle_rating": "1.7",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "ASRAD-R",
+      "battle_rating": "10.3",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "ASU-57",
+      "battle_rating": "3.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ASU-85",
+      "battle_rating": "6.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "AUBL/74",
+      "battle_rating": "6.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "AUBL/74 HVG",
+      "battle_rating": "8.0",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "AuF1",
+      "battle_rating": "7.0",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Avenger",
+      "battle_rating": "4.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "B1 bis",
+      "battle_rating": "2.3",
+      "nation": "France",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "B1 ter",
+      "battle_rating": "2.7",
+      "nation": "France",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "BA-11",
+      "battle_rating": "1.3",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "Begleitpanzer 57",
+      "battle_rating": "9.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Bfw. Jagdpanther G1",
+      "battle_rating": "6.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Bkan 1C",
+      "battle_rating": "7.0",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Black Night",
+      "battle_rating": "11.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Black Prince",
+      "battle_rating": "6.0",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "BM-8-24",
+      "battle_rating": "1.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "BM-13N",
+      "battle_rating": "2.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "BM-31-12",
+      "battle_rating": "4.0",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "BMD-4",
+      "battle_rating": "8.7",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "BMP-1",
+      "battle_rating": "7.7",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "BMP-2",
+      "battle_rating": "8.7",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "BMP-2M",
+      "battle_rating": "10.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "BMP-3",
+      "battle_rating": "8.7",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "Bosvark",
+      "battle_rating": "5.0",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "Breda 501",
+      "battle_rating": "4.7",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Brummbar",
+      "battle_rating": "4.7",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "BT-5",
+      "battle_rating": "1.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "BT-7",
+      "battle_rating": "1.3",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "BT-7 TD",
+      "battle_rating": "1.3",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "BT-7A (F-32)",
+      "battle_rating": "3.7",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "BT-7M",
+      "battle_rating": "2.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "BT-42",
+      "battle_rating": "2.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "BTR-80A",
+      "battle_rating": "7.3",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "BTR-152A",
+      "battle_rating": "3.0",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "BTR-ZD",
+      "battle_rating": "5.7",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "C2A1",
+      "battle_rating": "9.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "C13 T90",
+      "battle_rating": "7.0",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "CA Lorraine",
+      "battle_rating": "5.7",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Caernarvon",
+      "battle_rating": "7.7",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Calliope",
+      "battle_rating": "4.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "CCKW 353 (M45)",
+      "battle_rating": "2.3",
+      "nation": "China",
+      "type": "SPAA"
+    },
+    {
+      "name": "CCKW 353 AA",
+      "battle_rating": "2.7",
+      "nation": "France",
+      "type": "SPAA"
+    },
+    {
+      "name": "CCVL",
+      "battle_rating": "9.7",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "Celere Sahariano",
+      "battle_rating": "2.7",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Centauro I 105",
+      "battle_rating": "9.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "Centauro I 105 R",
+      "battle_rating": "9.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "Centauro I 120",
+      "battle_rating": "11.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "Centurion Action X",
+      "battle_rating": "7.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Centurion Mk 1",
+      "battle_rating": "6.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Centurion Mk 3",
+      "battle_rating": "7.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Centurion Mk 10",
+      "battle_rating": "8.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Centurion Mk.2",
+      "battle_rating": "6.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Centurion Mk.5 AVRE",
+      "battle_rating": "8.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Centurion Mk.5/1",
+      "battle_rating": "7.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Challenger",
+      "battle_rating": "5.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Challenger 2",
+      "battle_rating": "11.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Challenger 2 (2F)",
+      "battle_rating": "11.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Challenger 2",
+      "battle_rating": "11.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Challenger 2 TES",
+      "battle_rating": "11.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Challenger 2E",
+      "battle_rating": "11.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Challenger DS",
+      "battle_rating": "10.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Challenger Mk.2",
+      "battle_rating": "10.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Challenger Mk.3",
+      "battle_rating": "10.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Char 25t",
+      "battle_rating": "8.0",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "Charioteer Mk VII",
+      "battle_rating": "6.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Charioteer Mk VII",
+      "battle_rating": "6.0",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-Ha",
+      "battle_rating": "1.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-Ha",
+      "battle_rating": "1.3",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-Ha Kai",
+      "battle_rating": "2.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-Ha Kai",
+      "battle_rating": "2.3",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-Ha Kai TD",
+      "battle_rating": "2.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-Ha LG",
+      "battle_rating": "2.7",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Chi-Ha Short Gun",
+      "battle_rating": "2.0",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-He",
+      "battle_rating": "2.7",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-He (5th Regiment)",
+      "battle_rating": "2.7",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-Nu",
+      "battle_rating": "3.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-Nu II",
+      "battle_rating": "4.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-Ri II",
+      "battle_rating": "5.0",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-To",
+      "battle_rating": "4.7",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chi-To Late",
+      "battle_rating": "4.7",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chieftain Marksman",
+      "battle_rating": "8.3",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "Chieftain Mk 3",
+      "battle_rating": "8.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chieftain Mk 5",
+      "battle_rating": "8.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Chieftain Mk 10",
+      "battle_rating": "9.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Churchill Crocodile",
+      "battle_rating": "4.7",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Churchill I",
+      "battle_rating": "3.0",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Churchill III",
+      "battle_rating": "4.0",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Churchill NA75",
+      "battle_rating": "4.3",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Churchill VII",
+      "battle_rating": "4.7",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Class 3 (P)",
+      "battle_rating": "9.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "CM11",
+      "battle_rating": "9.3",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "CM25",
+      "battle_rating": "8.7",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "CM52",
+      "battle_rating": "2.3",
+      "nation": "Italy",
+      "type": "SPAA"
+    },
+    {
+      "name": "Cobra King",
+      "battle_rating": "5.3",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Comet I",
+      "battle_rating": "5.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Comet I \"Iron Duke IV\"",
+      "battle_rating": "5.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Comet I",
+      "battle_rating": "5.0",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Concept 3",
+      "battle_rating": "4.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Conqueror",
+      "battle_rating": "7.7",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Conway",
+      "battle_rating": "6.7",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Cromwell I",
+      "battle_rating": "3.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Cromwell V",
+      "battle_rating": "3.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Cromwell V (RP-3)",
+      "battle_rating": "3.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Crusader \"The Saint\"",
+      "battle_rating": "2.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Crusader AA Mk I",
+      "battle_rating": "3.3",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "Crusader AA Mk II",
+      "battle_rating": "5.0",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "Crusader II",
+      "battle_rating": "2.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Crusader III",
+      "battle_rating": "3.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Crusader Mk.II",
+      "battle_rating": "2.3",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "CV9030FIN",
+      "battle_rating": "9.3",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "CV 90105",
+      "battle_rating": "9.7",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "CV 90120",
+      "battle_rating": "11.3",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "D2",
+      "battle_rating": "1.3",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Daimler Mk II",
+      "battle_rating": "1.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Dardo",
+      "battle_rating": "10.0",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "DF105",
+      "battle_rating": "8.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Dicker Max",
+      "battle_rating": "4.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "E-100",
+      "battle_rating": "8.0",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "E.B.R. (1951)",
+      "battle_rating": "4.3",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "E.B.R. (1954)",
+      "battle_rating": "6.7",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "E.B.R. (1963)",
+      "battle_rating": "7.3",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "Eland 90 Mk.7",
+      "battle_rating": "7.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "ELC bis",
+      "battle_rating": "6.0",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Elefant",
+      "battle_rating": "7.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Ersatz M10",
+      "battle_rating": "6.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Excelsior",
+      "battle_rating": "4.0",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Falcon",
+      "battle_rating": "8.0",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "FCM.36",
+      "battle_rating": "1.0",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "Ferdinand",
+      "battle_rating": "7.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "FIAT 6614",
+      "battle_rating": "6.7",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "Flakpanzer 38",
+      "battle_rating": "2.0",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "Flakpanzer 341",
+      "battle_rating": "6.7",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "Flakpanzer I",
+      "battle_rating": "1.3",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "FlaRakPz 1",
+      "battle_rating": "10.0",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "FlaRakRad",
+      "battle_rating": "11.7",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "Freccia",
+      "battle_rating": "10.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "FV4005",
+      "battle_rating": "6.3",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "FV4202",
+      "battle_rating": "7.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "G6",
+      "battle_rating": "6.7",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Gal Batash",
+      "battle_rating": "9.3",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "GAZ-AAA (4M)",
+      "battle_rating": "1.0",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "GAZ-AAA (DShK)",
+      "battle_rating": "1.0",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "GAZ-MM (72-K)",
+      "battle_rating": "2.3",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "Gepard",
+      "battle_rating": "8.3",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "Gepard 1A2",
+      "battle_rating": "9.7",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "Grant I",
+      "battle_rating": "2.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Grant I",
+      "battle_rating": "2.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Gun Carrier (3-in)",
+      "battle_rating": "3.0",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "H.35",
+      "battle_rating": "1.0",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "H.39",
+      "battle_rating": "1.0",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "H.39 \"Cambronne\"",
+      "battle_rating": "1.0",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "Ha-Go",
+      "battle_rating": "1.0",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Ha-Go Commander",
+      "battle_rating": "1.0",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Heavy Tank No.6",
+      "battle_rating": "6.0",
+      "nation": "Japan",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Ho-I",
+      "battle_rating": "2.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Ho-Ni I",
+      "battle_rating": "2.0",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Ho-Ni III",
+      "battle_rating": "2.3",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Ho-Ri Production",
+      "battle_rating": "7.3",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Ho-Ri Prototype",
+      "battle_rating": "6.7",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Ho-Ro",
+      "battle_rating": "1.3",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Hovet",
+      "battle_rating": "7.7",
+      "nation": "Israel",
+      "type": "SPAA"
+    },
+    {
+      "name": "HSTV-L",
+      "battle_rating": "11.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "I-Go Ko",
+      "battle_rating": "1.0",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Ikv 72",
+      "battle_rating": "1.7",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Ikv 73",
+      "battle_rating": "2.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Ikv 91",
+      "battle_rating": "7.3",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Ikv 91-105",
+      "battle_rating": "8.7",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Ikv 103",
+      "battle_rating": "4.0",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Independent",
+      "battle_rating": "1.3",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IPM1",
+      "battle_rating": "11.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "IS-1",
+      "battle_rating": "5.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-2",
+      "battle_rating": "6.3",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-2 \"Revenge\"",
+      "battle_rating": "6.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-2 (1944)",
+      "battle_rating": "6.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-2 (1944)",
+      "battle_rating": "6.7",
+      "nation": "China",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-2",
+      "battle_rating": "6.3",
+      "nation": "China",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-2 No.321",
+      "battle_rating": "6.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-2 No.402",
+      "battle_rating": "6.3",
+      "nation": "China",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-3",
+      "battle_rating": "7.3",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-4M",
+      "battle_rating": "7.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-6",
+      "battle_rating": "7.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "IS-7",
+      "battle_rating": "8.3",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "ISU-122",
+      "battle_rating": "5.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ISU-122",
+      "battle_rating": "5.3",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ISU-122S",
+      "battle_rating": "5.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ISU-152",
+      "battle_rating": "4.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ISU-152",
+      "battle_rating": "4.7",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "IT-1",
+      "battle_rating": "8.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ItO 90M",
+      "battle_rating": "11.7",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "ItO 90M",
+      "battle_rating": "11.7",
+      "nation": "France",
+      "type": "SPAA"
+    },
+    {
+      "name": "ItPsV 90",
+      "battle_rating": "8.7",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "Jagdpanther G1",
+      "battle_rating": "6.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Jagdpanzer 38(t)",
+      "battle_rating": "4.7",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Jagdpanzer IV",
+      "battle_rating": "4.7",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Jagdtiger",
+      "battle_rating": "7.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "JaPz.K A2",
+      "battle_rating": "8.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "JPz 4-5",
+      "battle_rating": "6.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Ka-Chi",
+      "battle_rating": "2.0",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Ka-Mi",
+      "battle_rating": "1.0",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Ke-Ni",
+      "battle_rating": "1.0",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Khalid",
+      "battle_rating": "9.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Khrizantema-S",
+      "battle_rating": "9.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "KPz-70",
+      "battle_rating": "9.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Kugelblitz",
+      "battle_rating": "7.3",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "KV-1 (L-11)",
+      "battle_rating": "3.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KV-1 (ZiS-5)",
+      "battle_rating": "4.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KV-1E",
+      "battle_rating": "4.3",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KV-1S",
+      "battle_rating": "4.0",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KV-2 (1939)",
+      "battle_rating": "3.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KV-2 (1940)",
+      "battle_rating": "3.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KV-2 (ZiS-6)",
+      "battle_rating": "5.0",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KV-85",
+      "battle_rating": "5.0",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KV-122",
+      "battle_rating": "5.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KV-220",
+      "battle_rating": "6.0",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KV-IB",
+      "battle_rating": "4.3",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KW I C 756 (r)",
+      "battle_rating": "5.0",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "KW II 754 (r)",
+      "battle_rating": "3.7",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "L3/33 CC",
+      "battle_rating": "1.0",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "L6/40",
+      "battle_rating": "1.0",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "L6/40 (31 Rgt.)",
+      "battle_rating": "1.0",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "L-62 ANTI II",
+      "battle_rating": "3.7",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "Lago I",
+      "battle_rating": "2.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Lancia 3Ro (100/17)",
+      "battle_rating": "2.0",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "LAV-AD",
+      "battle_rating": "9.7",
+      "nation": "USA",
+      "type": "SPAA"
+    },
+    {
+      "name": "Leclerc",
+      "battle_rating": "11.7",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leclerc S2",
+      "battle_rating": "11.7",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leclerc SXXI",
+      "battle_rating": "11.7",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "leKPz M41",
+      "battle_rating": "6.3",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Leopard 1A5",
+      "battle_rating": "9.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 1A5",
+      "battle_rating": "9.3",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 1A5NO",
+      "battle_rating": "9.3",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 2 (PzBtl 123)",
+      "battle_rating": "10.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 2 PL",
+      "battle_rating": "11.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 2A4",
+      "battle_rating": "10.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 2A4",
+      "battle_rating": "10.3",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 2A5",
+      "battle_rating": "11.7",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 2A5",
+      "battle_rating": "11.7",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 2A6",
+      "battle_rating": "11.7",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 2A6",
+      "battle_rating": "11.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 2AV",
+      "battle_rating": "10.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard 2K",
+      "battle_rating": "9.7",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard A1A1",
+      "battle_rating": "9.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard A1A1 (L/44)",
+      "battle_rating": "9.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Leopard I",
+      "battle_rating": "8.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Light AA Mk I",
+      "battle_rating": "1.0",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "Lorraine 37L",
+      "battle_rating": "1.3",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Lorraine 40t",
+      "battle_rating": "7.0",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Lorraine 155 Mle.50",
+      "battle_rating": "4.3",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Lvkv 42",
+      "battle_rating": "5.0",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "Lvkv 9040C",
+      "battle_rating": "9.7",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "Lvrbv 701",
+      "battle_rating": "9.3",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "LVT(A)(1)",
+      "battle_rating": "1.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "LVT(A)(1)",
+      "battle_rating": "1.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "LVT(A)(4)",
+      "battle_rating": "1.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "LVT(A)(4) (ZiS-2)",
+      "battle_rating": "2.3",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "LVT(A)(4) (ZIS-2)",
+      "battle_rating": "2.3",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "LVT-4/40",
+      "battle_rating": "3.7",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "Lvtdgb m/40",
+      "battle_rating": "3.0",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "M1 Abrams",
+      "battle_rating": "10.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M1 KVT",
+      "battle_rating": "10.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M1A1",
+      "battle_rating": "11.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M1A1",
+      "battle_rating": "11.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M1A1 AIM",
+      "battle_rating": "11.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M1A1 HC",
+      "battle_rating": "11.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M1A2 Abrams",
+      "battle_rating": "11.7",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M1A2 SEP",
+      "battle_rating": "11.7",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M2",
+      "battle_rating": "1.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M2A2",
+      "battle_rating": "1.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M2A4",
+      "battle_rating": "1.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M2A4 (1st Arm.Div.)",
+      "battle_rating": "1.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M3 Bradley",
+      "battle_rating": "8.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M3 GMC",
+      "battle_rating": "1.7",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M3 Lee",
+      "battle_rating": "2.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M3 Medium",
+      "battle_rating": "2.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M3 Stuart",
+      "battle_rating": "1.7",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M3A1 (USMC)",
+      "battle_rating": "2.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M3A1 Stuart",
+      "battle_rating": "2.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M3A3 (1st PTG)",
+      "battle_rating": "2.3",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "M3A3",
+      "battle_rating": "2.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "M3A3 Bradley",
+      "battle_rating": "10.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M3A3 Stuart",
+      "battle_rating": "2.3",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "M3A3 Stuart",
+      "battle_rating": "2.3",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "M4",
+      "battle_rating": "3.7",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4 748 (a)",
+      "battle_rating": "4.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4 Hybrid",
+      "battle_rating": "3.7",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4 Tipo IC",
+      "battle_rating": "4.7",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4/T26",
+      "battle_rating": "6.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A1",
+      "battle_rating": "3.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A1 (75) W",
+      "battle_rating": "4.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A1 (76) W",
+      "battle_rating": "5.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A1 (FL10)",
+      "battle_rating": "4.7",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A1",
+      "battle_rating": "3.3",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A2",
+      "battle_rating": "4.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A2 (76) W",
+      "battle_rating": "5.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A2",
+      "battle_rating": "5.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A3 (76) W",
+      "battle_rating": "5.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A3 (76) W",
+      "battle_rating": "5.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A3 (105)",
+      "battle_rating": "3.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A3 (105)",
+      "battle_rating": "3.0",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A3E2",
+      "battle_rating": "5.3",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "M4A3E2 (76) W",
+      "battle_rating": "6.3",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "M4A3E2",
+      "battle_rating": "5.3",
+      "nation": "France",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "M4A4 (1st PTG)",
+      "battle_rating": "3.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A4",
+      "battle_rating": "3.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A4",
+      "battle_rating": "3.7",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A4",
+      "battle_rating": "3.7",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A4 (SA50)",
+      "battle_rating": "5.0",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M4A5",
+      "battle_rating": "3.7",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M5A1",
+      "battle_rating": "2.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M5A1",
+      "battle_rating": "2.3",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "M5A1 TD",
+      "battle_rating": "2.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M6A1",
+      "battle_rating": "4.7",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "M6A2E1",
+      "battle_rating": "6.7",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "M8 HMC",
+      "battle_rating": "1.3",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M8 LAC",
+      "battle_rating": "1.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M8 LAC",
+      "battle_rating": "1.0",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "M8 HMC",
+      "battle_rating": "1.3",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M8A1 GMC",
+      "battle_rating": "2.7",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M10 GMC",
+      "battle_rating": "3.7",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M10 GMC",
+      "battle_rating": "3.7",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M10 GMC",
+      "battle_rating": "3.7",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M11/39",
+      "battle_rating": "1.0",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "M13 MGMC",
+      "battle_rating": "1.3",
+      "nation": "USA",
+      "type": "SPAA"
+    },
+    {
+      "name": "M13/40 (I)",
+      "battle_rating": "1.7",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M13/40 (II)",
+      "battle_rating": "2.0",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M13/40 (III)",
+      "battle_rating": "2.0",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M14/41",
+      "battle_rating": "2.3",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M14/41 (47/40)",
+      "battle_rating": "2.3",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M15 CGMC",
+      "battle_rating": "2.0",
+      "nation": "USA",
+      "type": "SPAA"
+    },
+    {
+      "name": "M15/42",
+      "battle_rating": "2.7",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M16 MGMC",
+      "battle_rating": "2.7",
+      "nation": "USA",
+      "type": "SPAA"
+    },
+    {
+      "name": "M16 MGMC",
+      "battle_rating": "2.7",
+      "nation": "Japan",
+      "type": "SPAA"
+    },
+    {
+      "name": "M18 \"Black Cat\"",
+      "battle_rating": "5.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M18",
+      "battle_rating": "5.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "M18 GMC",
+      "battle_rating": "5.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M18 GMC",
+      "battle_rating": "5.3",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "M19A1",
+      "battle_rating": "4.7",
+      "nation": "USA",
+      "type": "SPAA"
+    },
+    {
+      "name": "M19A1",
+      "battle_rating": "4.7",
+      "nation": "Japan",
+      "type": "SPAA"
+    },
+    {
+      "name": "M22",
+      "battle_rating": "1.7",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M24",
+      "battle_rating": "3.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M24",
+      "battle_rating": "3.3",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "M24",
+      "battle_rating": "3.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "M24",
+      "battle_rating": "3.3",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "M24 (TL)",
+      "battle_rating": "3.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M26",
+      "battle_rating": "6.7",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M26 \"D.C.Ariete\"",
+      "battle_rating": "6.7",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M26 T99",
+      "battle_rating": "6.7",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M26A1",
+      "battle_rating": "6.7",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M26E1",
+      "battle_rating": "6.7",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M36",
+      "battle_rating": "5.7",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M36 GMC",
+      "battle_rating": "5.3",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M36 GMC",
+      "battle_rating": "5.3",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M36B1",
+      "battle_rating": "5.7",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M36B2",
+      "battle_rating": "5.7",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M36B2",
+      "battle_rating": "5.7",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M41A1",
+      "battle_rating": "6.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M41A1",
+      "battle_rating": "6.0",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "M41D",
+      "battle_rating": "7.7",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "M42",
+      "battle_rating": "5.0",
+      "nation": "USA",
+      "type": "SPAA"
+    },
+    {
+      "name": "M42",
+      "battle_rating": "5.0",
+      "nation": "China",
+      "type": "SPAA"
+    },
+    {
+      "name": "M42 Contraereo",
+      "battle_rating": "3.7",
+      "nation": "Italy",
+      "type": "SPAA"
+    },
+    {
+      "name": "M42",
+      "battle_rating": "5.0",
+      "nation": "Japan",
+      "type": "SPAA"
+    },
+    {
+      "name": "M43 \"G.C.Leoncello\"",
+      "battle_rating": "3.0",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M46",
+      "battle_rating": "7.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M46 \"Tiger\"",
+      "battle_rating": "7.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M47",
+      "battle_rating": "7.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M47 (105/55)",
+      "battle_rating": "7.7",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M47",
+      "battle_rating": "7.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M48 Super",
+      "battle_rating": "9.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M48A1",
+      "battle_rating": "7.7",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M48A1",
+      "battle_rating": "7.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M48A2 C",
+      "battle_rating": "7.7",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M48A2 G A2",
+      "battle_rating": "8.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M50",
+      "battle_rating": "6.7",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M53/59",
+      "battle_rating": "6.3",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "M56",
+      "battle_rating": "6.0",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M60",
+      "battle_rating": "8.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M60 AMBT",
+      "battle_rating": "10.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M60A1 \"D.C.Ariete\"",
+      "battle_rating": "8.0",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M60A1 (AOS)",
+      "battle_rating": "8.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M60A1 RISE (P)",
+      "battle_rating": "8.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M60A2",
+      "battle_rating": "8.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M60A3 TTS",
+      "battle_rating": "9.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M60A3 TTS",
+      "battle_rating": "9.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M64",
+      "battle_rating": "5.3",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "M103",
+      "battle_rating": "7.7",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "M113A1 (TOW)",
+      "battle_rating": "8.3",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M113A1 (TOW)",
+      "battle_rating": "8.3",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M163",
+      "battle_rating": "7.7",
+      "nation": "USA",
+      "type": "SPAA"
+    },
+    {
+      "name": "M247",
+      "battle_rating": "9.0",
+      "nation": "USA",
+      "type": "SPAA"
+    },
+    {
+      "name": "M551",
+      "battle_rating": "8.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M728 CEV",
+      "battle_rating": "8.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M901",
+      "battle_rating": "8.3",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "M1128",
+      "battle_rating": "9.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M1128 Wolfpack",
+      "battle_rating": "9.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "M-51",
+      "battle_rating": "6.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "M-51 (W)",
+      "battle_rating": "6.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Machbet",
+      "battle_rating": "9.3",
+      "nation": "Israel",
+      "type": "SPAA"
+    },
+    {
+      "name": "Magach 1",
+      "battle_rating": "7.7",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 2",
+      "battle_rating": "7.7",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 3",
+      "battle_rating": "8.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 3 (ERA)",
+      "battle_rating": "8.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 3 (ERA)",
+      "battle_rating": "8.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 5",
+      "battle_rating": "8.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 6",
+      "battle_rating": "8.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 6A",
+      "battle_rating": "8.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 6B",
+      "battle_rating": "8.3",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 6B Gal",
+      "battle_rating": "9.3",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 6C",
+      "battle_rating": "9.3",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 6M",
+      "battle_rating": "9.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 6R",
+      "battle_rating": "8.7",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach 7C",
+      "battle_rating": "9.3",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Magach Hydra",
+      "battle_rating": "8.7",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Marder 1A3",
+      "battle_rating": "8.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Marder A1-",
+      "battle_rating": "7.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Marder III",
+      "battle_rating": "2.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Marder III H",
+      "battle_rating": "3.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "MARS 15",
+      "battle_rating": "8.3",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "Matilda Hedgehog",
+      "battle_rating": "2.7",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Matilda III",
+      "battle_rating": "2.7",
+      "nation": "Great Britain",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Maus",
+      "battle_rating": "8.0",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "MBT-70",
+      "battle_rating": "9.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "MEPHISTO",
+      "battle_rating": "8.7",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Merkava Mk.1",
+      "battle_rating": "9.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Merkava Mk.1B",
+      "battle_rating": "9.3",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Merkava Mk.2B",
+      "battle_rating": "9.3",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Merkava Mk.2B",
+      "battle_rating": "9.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Merkava Mk.2D",
+      "battle_rating": "9.7",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Merkava Mk.3B",
+      "battle_rating": "11.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Merkava Mk.3C",
+      "battle_rating": "11.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Merkava Mk.3D",
+      "battle_rating": "11.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Merkava Mk.4 LIC",
+      "battle_rating": "11.3",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Merkava Mk.4B",
+      "battle_rating": "11.3",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Merkava Mk.4M",
+      "battle_rating": "11.7",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "MK-II \"Matilda\"",
+      "battle_rating": "3.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "MK-IX \"Valentine\"",
+      "battle_rating": "3.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "mKPz M47 G",
+      "battle_rating": "7.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Na-To",
+      "battle_rating": "3.3",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Nashorn",
+      "battle_rating": "5.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Nb.Fz.",
+      "battle_rating": "1.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Object 120",
+      "battle_rating": "8.0",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Object 122MT \"MC\"",
+      "battle_rating": "8.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Object 211",
+      "battle_rating": "5.0",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "Object 248",
+      "battle_rating": "6.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Object 268",
+      "battle_rating": "7.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Object 279",
+      "battle_rating": "9.0",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Object 435",
+      "battle_rating": "8.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Object 685",
+      "battle_rating": "8.3",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "Object 906",
+      "battle_rating": "7.7",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "OF-40",
+      "battle_rating": "8.0",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "OF-40 (MTCA)",
+      "battle_rating": "9.0",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "OF-40 Mk.2A",
+      "battle_rating": "9.0",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Olifant Mk.1A",
+      "battle_rating": "8.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Olifant Mk.2",
+      "battle_rating": "9.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Ostwind",
+      "battle_rating": "4.7",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "Ostwind II",
+      "battle_rating": "5.7",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "OTOMATIC",
+      "battle_rating": "11.3",
+      "nation": "Italy",
+      "type": "SPAA"
+    },
+    {
+      "name": "Ozelot",
+      "battle_rating": "9.7",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "P40",
+      "battle_rating": "3.3",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "P40 \"G.C. Leoncello\"",
+      "battle_rating": "3.3",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "P.7.T AA",
+      "battle_rating": "1.3",
+      "nation": "France",
+      "type": "SPAA"
+    },
+    {
+      "name": "Panther \"Dauphin\"",
+      "battle_rating": "6.0",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Panther A",
+      "battle_rating": "6.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Panther D",
+      "battle_rating": "5.7",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Panther F",
+      "battle_rating": "6.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Panther G",
+      "battle_rating": "6.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Panther II",
+      "battle_rating": "7.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pantsir-S1",
+      "battle_rating": "11.7",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "Panzer IV/70(A)",
+      "battle_rating": "4.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Panzer IV/70(V)",
+      "battle_rating": "5.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Panzerjager I",
+      "battle_rating": "1.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Pbil m/40",
+      "battle_rating": "2.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Pbv 301",
+      "battle_rating": "2.3",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "Pbv 302 (BILL)",
+      "battle_rating": "8.7",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "PGZ04A",
+      "battle_rating": "9.3",
+      "nation": "China",
+      "type": "SPAA"
+    },
+    {
+      "name": "PGZ09",
+      "battle_rating": "8.3",
+      "nation": "China",
+      "type": "SPAA"
+    },
+    {
+      "name": "Phong khong T-34",
+      "battle_rating": "5.7",
+      "nation": "China",
+      "type": "SPAA"
+    },
+    {
+      "name": "Phong khong T-34",
+      "battle_rating": "5.7",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "PT-16/T14 mod.",
+      "battle_rating": "10.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "PT-76",
+      "battle_rating": "5.0",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "PT-76",
+      "battle_rating": "5.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "PT-76-57",
+      "battle_rating": "7.7",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "PT-76B",
+      "battle_rating": "5.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "PTL02",
+      "battle_rating": "8.7",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "PTZ89",
+      "battle_rating": "8.7",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "PUMA",
+      "battle_rating": "10.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Pvkv II",
+      "battle_rating": "3.7",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Pvkv III",
+      "battle_rating": "3.3",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Pvkv m/43 (1946)",
+      "battle_rating": "4.0",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Pvkv m/43 (1963)",
+      "battle_rating": "4.7",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Pvlvv fm/42",
+      "battle_rating": "1.3",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "Pvrbv 551",
+      "battle_rating": "8.0",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Pz.35(t)",
+      "battle_rating": "1.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Pz.38(t) A",
+      "battle_rating": "1.3",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Pz.38(t) F",
+      "battle_rating": "2.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Pz.38(t) n.A.",
+      "battle_rating": "2.3",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Pz.Bef.Wg.IV J",
+      "battle_rating": "4.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.Bef.Wg.VI P",
+      "battle_rating": "5.7",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Pz.II C",
+      "battle_rating": "1.3",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Pz.II C (DAK)",
+      "battle_rating": "1.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Pz.II C TD",
+      "battle_rating": "1.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Pz.II F",
+      "battle_rating": "2.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Pz.III B",
+      "battle_rating": "1.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.III E",
+      "battle_rating": "1.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.III F",
+      "battle_rating": "1.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.III J",
+      "battle_rating": "2.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.III J1",
+      "battle_rating": "2.7",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.III J1 TD",
+      "battle_rating": "2.7",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.III L",
+      "battle_rating": "3.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.III M",
+      "battle_rating": "3.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.III N",
+      "battle_rating": "3.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.III N",
+      "battle_rating": "3.0",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.IV",
+      "battle_rating": "4.0",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.IV C",
+      "battle_rating": "1.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.IV E",
+      "battle_rating": "2.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.IV F1",
+      "battle_rating": "2.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.IV F2",
+      "battle_rating": "3.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.IV G",
+      "battle_rating": "3.7",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.IV G",
+      "battle_rating": "4.0",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.IV H",
+      "battle_rating": "4.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.IV J",
+      "battle_rating": "4.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Pz.Kpfw. Churchill",
+      "battle_rating": "4.0",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Pz.Sfl.Ic",
+      "battle_rating": "2.3",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "QF 3.7 Ram",
+      "battle_rating": "5.3",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "QN506",
+      "battle_rating": "10.0",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "R3 T20 FA-HS",
+      "battle_rating": "4.7",
+      "nation": "Italy",
+      "type": "SPAA"
+    },
+    {
+      "name": "R3 T106 FA",
+      "battle_rating": "7.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "R.35 (SA38)",
+      "battle_rating": "1.0",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "Radkampfwagen 90",
+      "battle_rating": "9.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Raketenautomat",
+      "battle_rating": "7.7",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "RakJPz 2",
+      "battle_rating": "8.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "RakJPz 2 (HOT)",
+      "battle_rating": "8.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Ratel 20",
+      "battle_rating": "6.7",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Ratel 90",
+      "battle_rating": "6.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "RBT-5",
+      "battle_rating": "1.3",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "Ro-Go",
+      "battle_rating": "1.3",
+      "nation": "Japan",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Ro-Go Exp.",
+      "battle_rating": "1.7",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Roland 1",
+      "battle_rating": "10.0",
+      "nation": "France",
+      "type": "SPAA"
+    },
+    {
+      "name": "Rooikat 105",
+      "battle_rating": "9.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Rooikat Mk.1D",
+      "battle_rating": "8.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Rooikat MTTD",
+      "battle_rating": "9.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Ru 251",
+      "battle_rating": "7.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "S.35",
+      "battle_rating": "1.3",
+      "nation": "France",
+      "type": "Medium tank"
+    },
+    {
+      "name": "SANTAL",
+      "battle_rating": "9.3",
+      "nation": "France",
+      "type": "SPAA"
+    },
+    {
+      "name": "SARC MkIVa",
+      "battle_rating": "1.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "SARC MkVI (2pdr)",
+      "battle_rating": "2.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "SARC MkVI (6pdr)",
+      "battle_rating": "3.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "SAu 40",
+      "battle_rating": "1.7",
+      "nation": "France",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SAV 20.12.48",
+      "battle_rating": "3.7",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Sav m/43 (1944)",
+      "battle_rating": "1.7",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Sav m/43 (1946)",
+      "battle_rating": "3.0",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Sd.Kfz.221 (s.Pz.B.41)",
+      "battle_rating": "1.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Sd.Kfz.222",
+      "battle_rating": "1.7",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "Sd.Kfz.222",
+      "battle_rating": "1.3",
+      "nation": "China",
+      "type": "SPAA"
+    },
+    {
+      "name": "Sd.Kfz.234/1",
+      "battle_rating": "2.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Sd.Kfz.234/2",
+      "battle_rating": "2.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Sd.Kfz.234/2 TD",
+      "battle_rating": "2.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Sd.Kfz.234/3",
+      "battle_rating": "2.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Sd.Kfz.234/4",
+      "battle_rating": "4.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Sd.Kfz.251/9",
+      "battle_rating": "1.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Sd.Kfz.251/10",
+      "battle_rating": "1.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Sd.Kfz.251/21",
+      "battle_rating": "3.3",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "Sd.Kfz.251/22",
+      "battle_rating": "3.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Sd.Kfz. 6/2",
+      "battle_rating": "2.3",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "Sd.Kfz. 140/1",
+      "battle_rating": "1.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "Sherman Firefly",
+      "battle_rating": "4.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Sherman IC \"Trzyniec\"",
+      "battle_rating": "4.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Sherman II",
+      "battle_rating": "3.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Sherman III/IV",
+      "battle_rating": "3.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Sherman Vc",
+      "battle_rating": "5.0",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Sho't",
+      "battle_rating": "7.7",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Sho't Kal Alef",
+      "battle_rating": "8.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Sho't Kal Dalet",
+      "battle_rating": "9.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Sho't Kal Dalet",
+      "battle_rating": "9.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Sho't Kal Gimel",
+      "battle_rating": "8.7",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Shturm-S",
+      "battle_rating": "8.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SIDAM 25",
+      "battle_rating": "8.3",
+      "nation": "Italy",
+      "type": "SPAA"
+    },
+    {
+      "name": "SIDAM 25 (Mistral)",
+      "battle_rating": "10.0",
+      "nation": "Italy",
+      "type": "SPAA"
+    },
+    {
+      "name": "SK-105A2",
+      "battle_rating": "8.7",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "Skink",
+      "battle_rating": "6.0",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "SMK",
+      "battle_rating": "3.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "So-Ki",
+      "battle_rating": "3.0",
+      "nation": "Japan",
+      "type": "SPAA"
+    },
+    {
+      "name": "Somua SM",
+      "battle_rating": "7.7",
+      "nation": "France",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Spj fm/43-44",
+      "battle_rating": "2.3",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SPz BMP-1",
+      "battle_rating": "7.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "ST-A1",
+      "battle_rating": "6.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ST-A2",
+      "battle_rating": "6.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ST-A3",
+      "battle_rating": "6.7",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Staghound AA",
+      "battle_rating": "2.3",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "STB-2",
+      "battle_rating": "8.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Stormer HVM",
+      "battle_rating": "10.3",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "Strela-10M2",
+      "battle_rating": "10.0",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "Strf 9040 BILL",
+      "battle_rating": "10.7",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Strf 9040B",
+      "battle_rating": "9.3",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Strf 9040C",
+      "battle_rating": "10.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Striker",
+      "battle_rating": "8.3",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Strv 74",
+      "battle_rating": "5.7",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Strv 81",
+      "battle_rating": "7.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 81 (RB 52)",
+      "battle_rating": "7.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 81 (RB 52)",
+      "battle_rating": "7.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 101",
+      "battle_rating": "8.0",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 103-0",
+      "battle_rating": "8.0",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 103A",
+      "battle_rating": "8.0",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 103C",
+      "battle_rating": "8.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 104",
+      "battle_rating": "8.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 105",
+      "battle_rating": "9.3",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 121",
+      "battle_rating": "10.3",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 122A",
+      "battle_rating": "11.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv 122B PLSS",
+      "battle_rating": "11.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv m/31",
+      "battle_rating": "1.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Strv m/38",
+      "battle_rating": "1.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Strv m/39",
+      "battle_rating": "1.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Strv m/39 TD",
+      "battle_rating": "1.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Strv m/40L",
+      "battle_rating": "2.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Strv m/41 S-I",
+      "battle_rating": "2.7",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Strv m/41 S-II",
+      "battle_rating": "2.3",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Strv m/42 DT",
+      "battle_rating": "5.0",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Strv m/42 EH",
+      "battle_rating": "2.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Stuart I",
+      "battle_rating": "1.7",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Stuart III",
+      "battle_rating": "2.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Stuart VI (5th CAD)",
+      "battle_rating": "2.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "StuG III A",
+      "battle_rating": "2.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "StuG III F",
+      "battle_rating": "3.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "StuG III G",
+      "battle_rating": "4.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "StuG III G",
+      "battle_rating": "4.3",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "StuH 42 G",
+      "battle_rating": "3.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Sturer Emil",
+      "battle_rating": "4.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-5-1",
+      "battle_rating": "1.0",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-57",
+      "battle_rating": "2.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-57B",
+      "battle_rating": "2.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-76D",
+      "battle_rating": "2.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-76M",
+      "battle_rating": "2.0",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-76M (5th Gv.Kav.Corps)",
+      "battle_rating": "2.0",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-76M",
+      "battle_rating": "2.0",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-85",
+      "battle_rating": "4.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-85A",
+      "battle_rating": "4.0",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-85M",
+      "battle_rating": "5.0",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-100",
+      "battle_rating": "6.0",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-100",
+      "battle_rating": "6.0",
+      "nation": "China",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-100P",
+      "battle_rating": "6.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-100Y",
+      "battle_rating": "5.0",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-122",
+      "battle_rating": "2.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-122-54",
+      "battle_rating": "6.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-122P",
+      "battle_rating": "5.7",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SU-152",
+      "battle_rating": "4.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "SUB-I-II",
+      "battle_rating": "5.3",
+      "nation": "Japan",
+      "type": "SPAA"
+    },
+    {
+      "name": "Super Hellcat",
+      "battle_rating": "6.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "Swingfire",
+      "battle_rating": "8.0",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "T1E1",
+      "battle_rating": "5.0",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T14",
+      "battle_rating": "4.7",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T18E2",
+      "battle_rating": "3.0",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "T20",
+      "battle_rating": "6.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T25",
+      "battle_rating": "6.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T26E1-1",
+      "battle_rating": "6.7",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T26E5",
+      "battle_rating": "6.7",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T28",
+      "battle_rating": "6.7",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "T29",
+      "battle_rating": "7.0",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T30",
+      "battle_rating": "6.7",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T32",
+      "battle_rating": "7.3",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T32E1",
+      "battle_rating": "7.7",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T34",
+      "battle_rating": "7.0",
+      "nation": "USA",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T54E1",
+      "battle_rating": "8.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T55E1",
+      "battle_rating": "4.3",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "T92",
+      "battle_rating": "6.7",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "T95",
+      "battle_rating": "7.3",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "T95E1",
+      "battle_rating": "8.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T114",
+      "battle_rating": "7.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "T 34 747 (r)",
+      "battle_rating": "4.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T 80 U",
+      "battle_rating": "11.0",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-10A",
+      "battle_rating": "7.7",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T-10M",
+      "battle_rating": "8.0",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T-26",
+      "battle_rating": "1.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-26 (1st Gv.T.Br.)",
+      "battle_rating": "1.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-26",
+      "battle_rating": "1.0",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-26 No.531",
+      "battle_rating": "1.0",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-26-4",
+      "battle_rating": "1.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-26E",
+      "battle_rating": "1.3",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-26E",
+      "battle_rating": "1.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-28",
+      "battle_rating": "1.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-28 (1938)",
+      "battle_rating": "1.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-28",
+      "battle_rating": "1.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-28E",
+      "battle_rating": "2.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34 (1st Gv.T.Br.)",
+      "battle_rating": "3.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34 (1940)",
+      "battle_rating": "3.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34 (1941)",
+      "battle_rating": "3.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34 (1942)",
+      "battle_rating": "4.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34 (1943)",
+      "battle_rating": "4.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34 (Prototype)",
+      "battle_rating": "3.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34",
+      "battle_rating": "3.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34-57",
+      "battle_rating": "4.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34-57 (1943)",
+      "battle_rating": "4.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34-85",
+      "battle_rating": "5.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34-85 (D-5T)",
+      "battle_rating": "5.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34-85 (S-53)",
+      "battle_rating": "5.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34-85",
+      "battle_rating": "5.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34-85 Gai",
+      "battle_rating": "5.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34-85 No.215",
+      "battle_rating": "5.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34-85E",
+      "battle_rating": "5.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34-100",
+      "battle_rating": "6.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34E",
+      "battle_rating": "4.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-34E STZ",
+      "battle_rating": "4.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-35",
+      "battle_rating": "1.3",
+      "nation": "USSR",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "T-44",
+      "battle_rating": "6.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-44-100",
+      "battle_rating": "7.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-44-122",
+      "battle_rating": "6.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-50",
+      "battle_rating": "2.7",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-54 (1947)",
+      "battle_rating": "7.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-54 (1949)",
+      "battle_rating": "8.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-54 (1951)",
+      "battle_rating": "8.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-54",
+      "battle_rating": "8.0",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-55A",
+      "battle_rating": "8.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-55AM-1",
+      "battle_rating": "8.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-55AMD-1",
+      "battle_rating": "8.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-55M",
+      "battle_rating": "8.7",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-60",
+      "battle_rating": "1.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-62",
+      "battle_rating": "8.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-62 N° 545",
+      "battle_rating": "8.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-62M-1",
+      "battle_rating": "9.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-64A (1971)",
+      "battle_rating": "9.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-64B",
+      "battle_rating": "9.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-69 II G",
+      "battle_rating": "9.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-70",
+      "battle_rating": "2.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-72A",
+      "battle_rating": "9.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-72AV (TURMS-T)",
+      "battle_rating": "10.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-72B",
+      "battle_rating": "10.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-72B3",
+      "battle_rating": "11.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-72B (1989)",
+      "battle_rating": "10.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-72M1",
+      "battle_rating": "9.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-72M1",
+      "battle_rating": "9.3",
+      "nation": "Sweden",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-72M2 Moderna",
+      "battle_rating": "10.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-80",
+      "battle_rating": "2.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-80B",
+      "battle_rating": "10.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-80BVM",
+      "battle_rating": "11.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-80U",
+      "battle_rating": "11.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-80U",
+      "battle_rating": "11.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-80UK",
+      "battle_rating": "11.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-80UM2",
+      "battle_rating": "11.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-90A",
+      "battle_rating": "10.7",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-126",
+      "battle_rating": "3.0",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "T-III",
+      "battle_rating": "2.3",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "T-V",
+      "battle_rating": "6.0",
+      "nation": "USSR",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Ta-Se",
+      "battle_rating": "1.7",
+      "nation": "Japan",
+      "type": "SPAA"
+    },
+    {
+      "name": "TAM",
+      "battle_rating": "8.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "TAM 2C",
+      "battle_rating": "9.7",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "TAM 2IP",
+      "battle_rating": "9.0",
+      "nation": "Germany",
+      "type": "Light tank"
+    },
+    {
+      "name": "TCM-20",
+      "battle_rating": "4.3",
+      "nation": "Israel",
+      "type": "SPAA"
+    },
+    {
+      "name": "Tetrarch I",
+      "battle_rating": "1.0",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Tiger",
+      "battle_rating": "5.7",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Tiger E",
+      "battle_rating": "6.0",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Tiger H1",
+      "battle_rating": "5.7",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Tiger II (10.5 cm Kw.K)",
+      "battle_rating": "7.0",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Tiger II (H)",
+      "battle_rating": "7.0",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Tiger II (H) Sla.16",
+      "battle_rating": "7.0",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Tiger II (P)",
+      "battle_rating": "6.7",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "Tiran 4",
+      "battle_rating": "8.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Tiran 4S",
+      "battle_rating": "8.0",
+      "nation": "Israel",
+      "type": "Medium tank"
+    },
+    {
+      "name": "TKX",
+      "battle_rating": "11.7",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Toldi IIA",
+      "battle_rating": "1.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "Tor-M1",
+      "battle_rating": "11.7",
+      "nation": "China",
+      "type": "SPAA"
+    },
+    {
+      "name": "Tortoise",
+      "battle_rating": "6.7",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "TTD",
+      "battle_rating": "10.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Turan II",
+      "battle_rating": "2.3",
+      "nation": "Italy",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Turm III",
+      "battle_rating": "8.3",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 10",
+      "battle_rating": "11.7",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 16",
+      "battle_rating": "9.7",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Type 16 (FPS)",
+      "battle_rating": "9.3",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Type 16 (P)",
+      "battle_rating": "9.3",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Type 59",
+      "battle_rating": "8.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 60 ATM",
+      "battle_rating": "6.7",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Type 60 SPRG (C)",
+      "battle_rating": "6.7",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Type 61",
+      "battle_rating": "6.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 62",
+      "battle_rating": "6.7",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "Type 62",
+      "battle_rating": "6.7",
+      "nation": "USSR",
+      "type": "Light tank"
+    },
+    {
+      "name": "Type 63",
+      "battle_rating": "6.3",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "Type 69",
+      "battle_rating": "8.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 69-IIa",
+      "battle_rating": "8.3",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 74 (C)",
+      "battle_rating": "8.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 74 (E)",
+      "battle_rating": "9.0",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 74 (F)",
+      "battle_rating": "9.0",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 74 (G)",
+      "battle_rating": "9.3",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 75 MLRS",
+      "battle_rating": "7.0",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Type 75 SPH",
+      "battle_rating": "6.7",
+      "nation": "Japan",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Type 87",
+      "battle_rating": "8.3",
+      "nation": "Japan",
+      "type": "SPAA"
+    },
+    {
+      "name": "Type 87 RCV",
+      "battle_rating": "9.0",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Type 87 RCV (P)",
+      "battle_rating": "7.7",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Type 89",
+      "battle_rating": "9.0",
+      "nation": "Japan",
+      "type": "Light tank"
+    },
+    {
+      "name": "Type 90",
+      "battle_rating": "11.0",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 90 (B)",
+      "battle_rating": "11.0",
+      "nation": "Japan",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Type 93",
+      "battle_rating": "9.3",
+      "nation": "Japan",
+      "type": "SPAA"
+    },
+    {
+      "name": "Type 94",
+      "battle_rating": "1.3",
+      "nation": "Japan",
+      "type": "SPAA"
+    },
+    {
+      "name": "U-SH 405",
+      "battle_rating": "7.7",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "UDES 33",
+      "battle_rating": "8.3",
+      "nation": "Sweden",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Valentine I",
+      "battle_rating": "2.7",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Valentine IX",
+      "battle_rating": "3.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Valentine XI",
+      "battle_rating": "3.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "VBC (PT2)",
+      "battle_rating": "9.0",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "VBCI-2 (MCT30)",
+      "battle_rating": "9.7",
+      "nation": "France",
+      "type": "Light tank"
+    },
+    {
+      "name": "VCC-80/30",
+      "battle_rating": "10.0",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "VCC-80/60",
+      "battle_rating": "9.0",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "VEAK 40",
+      "battle_rating": "8.7",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "VFM5",
+      "battle_rating": "9.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "VFW",
+      "battle_rating": "5.7",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Vickers Mk.1",
+      "battle_rating": "8.0",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Vickers Mk.3",
+      "battle_rating": "8.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Vickers Mk.7",
+      "battle_rating": "10.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "Vickers Mk.E",
+      "battle_rating": "1.0",
+      "nation": "Sweden",
+      "type": "Light tank"
+    },
+    {
+      "name": "Vijayanta",
+      "battle_rating": "8.3",
+      "nation": "Great Britain",
+      "type": "Medium tank"
+    },
+    {
+      "name": "VK 45.01 (P)",
+      "battle_rating": "5.3",
+      "nation": "Germany",
+      "type": "Heavy tank"
+    },
+    {
+      "name": "VK 3002 (M)",
+      "battle_rating": "5.0",
+      "nation": "Germany",
+      "type": "Medium tank"
+    },
+    {
+      "name": "VRCC",
+      "battle_rating": "9.3",
+      "nation": "Italy",
+      "type": "Light tank"
+    },
+    {
+      "name": "VT1-2",
+      "battle_rating": "8.3",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Waffentrager",
+      "battle_rating": "5.7",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Warrior",
+      "battle_rating": "8.3",
+      "nation": "Great Britain",
+      "type": "Light tank"
+    },
+    {
+      "name": "Wiesel 1A2",
+      "battle_rating": "9.0",
+      "nation": "Germany",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Wiesel 1A4",
+      "battle_rating": "7.3",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "Wirbelwind",
+      "battle_rating": "4.7",
+      "nation": "Germany",
+      "type": "SPAA"
+    },
+    {
+      "name": "WMA301",
+      "battle_rating": "8.7",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "WZ305",
+      "battle_rating": "8.7",
+      "nation": "China",
+      "type": "SPAA"
+    },
+    {
+      "name": "WZ1001(E) LCT",
+      "battle_rating": "11.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "XM8",
+      "battle_rating": "9.3",
+      "nation": "USA",
+      "type": "Light tank"
+    },
+    {
+      "name": "XM975",
+      "battle_rating": "10.0",
+      "nation": "USA",
+      "type": "SPAA"
+    },
+    {
+      "name": "XM1069",
+      "battle_rating": "11.7",
+      "nation": "USA",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "XM-1 (Chrysler)",
+      "battle_rating": "9.0",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "XM-1 (GM)",
+      "battle_rating": "9.3",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "XM-803",
+      "battle_rating": "8.7",
+      "nation": "USA",
+      "type": "Medium tank"
+    },
+    {
+      "name": "YaG-10 (29-K)",
+      "battle_rating": "3.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "Ystervark",
+      "battle_rating": "4.3",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZA-35",
+      "battle_rating": "8.3",
+      "nation": "Great Britain",
+      "type": "SPAA"
+    },
+    {
+      "name": "Zachlam Tager",
+      "battle_rating": "6.7",
+      "nation": "Israel",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ZBD86",
+      "battle_rating": "7.7",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "ZiS-12 (94-KM)",
+      "battle_rating": "3.7",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZiS-30",
+      "battle_rating": "2.3",
+      "nation": "USSR",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ZiS-43",
+      "battle_rating": "4.0",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZLT11",
+      "battle_rating": "9.7",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "Zrinyi I",
+      "battle_rating": "4.0",
+      "nation": "Italy",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ZSD63/PG87",
+      "battle_rating": "5.0",
+      "nation": "China",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZSU-23-4",
+      "battle_rating": "8.0",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZSU-23-4",
+      "battle_rating": "8.0",
+      "nation": "Israel",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZSU-37",
+      "battle_rating": "4.0",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZSU-37-2",
+      "battle_rating": "8.0",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZSU-57-2",
+      "battle_rating": "7.0",
+      "nation": "USSR",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZSU-57-2",
+      "battle_rating": "7.0",
+      "nation": "Israel",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZSU-57-2",
+      "battle_rating": "7.0",
+      "nation": "Sweden",
+      "type": "SPAA"
+    },
+    {
+      "name": "ZT3A2",
+      "battle_rating": "8.3",
+      "nation": "Great Britain",
+      "type": "Tank destroyer"
+    },
+    {
+      "name": "ZTS63",
+      "battle_rating": "7.7",
+      "nation": "China",
+      "type": "Light tank"
+    },
+    {
+      "name": "ZTZ59A",
+      "battle_rating": "8.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ZTZ59D1",
+      "battle_rating": "8.3",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ZTZ88A",
+      "battle_rating": "9.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ZTZ88B",
+      "battle_rating": "9.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ZTZ96",
+      "battle_rating": "9.3",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ZTZ96A",
+      "battle_rating": "10.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ZTZ96A (P)",
+      "battle_rating": "10.0",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ZTZ99-II",
+      "battle_rating": "10.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ZTZ99-III",
+      "battle_rating": "10.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ZTZ99A",
+      "battle_rating": "11.7",
+      "nation": "China",
+      "type": "Medium tank"
+    },
+    {
+      "name": "ZUT-37",
+      "battle_rating": "2.3",
+      "nation": "USSR",
+      "type": "SPAA"
+    }
+  ]
+}
