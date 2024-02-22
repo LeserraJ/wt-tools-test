@@ -11,6 +11,6 @@ with open("tanks_data.json", "r") as json_file:
 
 db = TinyDB('/workspace/wt-tools-test/tanks_data.json')
 
-print(data)
+
 
 #print(db)
