@@ -7,5 +7,6 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return render_template('index.html')
+    return render_template('index.html', title = 'Test')
 
+# For hot reload CLI Command flask --app app --debug run
